@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="demo/src/main/java"/>
+	<classpathentry kind="src" path="demo/src/test/java"/>
+	<classpathentry kind="src" path="Exceções para Ler um Arquivo/demo/src/main/java"/>
+	<classpathentry kind="src" path="Exceções para Ler um Arquivo/demo/src/test/java"/>
+	<classpathentry kind="output" path="Exceções para Ler um Arquivo/demo/target/classes"/>
+</classpath>
